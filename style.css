@@ -1,0 +1,9 @@
+html{
+    box-sizing: border-box;
+}
+
+body{
+    margin:0;
+    /* min height of visible screen shoudl take up the full screen - view port */
+    min-height: 100vh;
+}
